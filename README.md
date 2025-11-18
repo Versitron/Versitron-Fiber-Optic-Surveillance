@@ -89,4 +89,6 @@ Built for military, homeland security, and high-risk government applications.
 **Contact Us Today**  
 Explore fiber optic and security communication products engineered by Versitron for high-performance, mission-critical environments.  
 
+[Explore POTS to Fiber Conversion Kits](https://www.versitron.com/collections/2-wire-pots-phone-and-data-kits)
+
 ---
